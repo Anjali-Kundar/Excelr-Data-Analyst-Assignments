@@ -1,0 +1,1 @@
+Welcome to the Excel Assignments repository! This repository is dedicated to various assignments designed to enhance your Excel skills. Each assignment covers different aspects of Excel, including data manipulation, formulas, functions, data analysis, visualization, and automation with VBA and macros.
